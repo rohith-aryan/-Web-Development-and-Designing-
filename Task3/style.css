@@ -1,0 +1,13 @@
+body {
+    background-color: #E1F0FF;
+  }
+  
+  .container {
+    margin-top: 100px;
+  }
+  
+  .row {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+  }
+  
