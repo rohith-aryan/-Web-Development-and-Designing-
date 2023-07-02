@@ -12,4 +12,5 @@ document.getElementById("convert").addEventListener("click", function() {
       celsiusInput.value = celsius.toFixed(2);
     }
   });
+
   
